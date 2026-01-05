@@ -52,12 +52,7 @@ export default function Hero() {
             </a>
           </div>
 
-          {/* Social Links */}
-          <div className="mt-8 flex gap-6 text-2xl">
-            <a href="#" className="hover:text-pink-300 transition">🌐</a>
-            <a href="#" className="hover:text-pink-300 transition">🐙</a>
-            <a href="#" className="hover:text-pink-300 transition">💼</a>
-          </div>
+         
         </motion.div>
 
         {/* Profile Image */}

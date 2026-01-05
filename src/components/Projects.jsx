@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { projects } from "../data/Projects";
+import { projects } from "../data/projects.js";
 
 export default function Projects() {
   const [activeId, setActiveId] = useState(null);
